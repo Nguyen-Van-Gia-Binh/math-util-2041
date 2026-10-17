@@ -9,6 +9,6 @@
 ### Screen-shots
 ![JUnit with TDD, DDT](https://github.com/doit-now/math-util-2041/blob/main/screen-shots/JUnit%20with%20TDD%20DDT.png)
 
-#### Connect me via: hoangnt20@fe.edu.vn
+#### Connect me via: nguyenvangiabinh22072006@gmail.com
 
-#### &#169; 2026 giáo.làng 
+#### &#169; 2026 Nguyễn Văn Gia Bình
