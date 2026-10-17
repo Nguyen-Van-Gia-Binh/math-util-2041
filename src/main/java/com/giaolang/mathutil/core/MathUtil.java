@@ -12,7 +12,8 @@ public class MathUtil {
             return 1;  //n = 0 return ngay
         }
         //sure n từ 1..20
-        long result = 1;  //khởi đầu giai thừa bằng 1, nhân dồn
+        long result = 10;  //khởi đầu giai thừa bằng 1, nhân dồn
+                          // Cố tình làm code bị lỗi để test CI
         for (int i = 1; i <= n; i++) {
             result *= i;
         }
