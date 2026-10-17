@@ -1,5 +1,5 @@
 # Welcome to Math Utility
-
+**[![Math Utility Project (CI included) | © 2026 by Nguyen Van Gia Binh](https://github.com/Nguyen-Van-Gia-Binh/math-util-2041/actions/workflows/ci-script.yml/badge.svg)](https://github.com/Nguyen-Van-Gia-Binh/math-util-2041/actions/workflows/ci-script.yml)**
 ### You will find in this repo the following stuff:
 * A Maven project to simulate a standard JDK library - Math utility
 * A Unit Testing test script using JUnit, TDD & DDT
